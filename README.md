@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @hanoremma
-- 👀 I’m interested in drawing
-- 🌱 I’m currently learning C++
+- 👋 Hi, I’m @hanoremma you can call me Emma 
+- 👀 I’m interested in drawing and coding
+- 🌱 I’m currently learning C++ and python
 - 💞️ I’m looking to collaborate on some c++ projects
 - 📫 How to reach me Instagram (@emcozyu)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Introvert parah
+- ⚡ Fun fact: Introvert, cat lover, currently reading "Educated" by Tara Westover
 
 <!---
 hanoremma/hanoremma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
