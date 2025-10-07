@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some c++ projects
 - 📫 How to reach me Instagram (@emcozyu)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Introvert, cat lover, currently reading "Educated" by Tara Westover
+- ⚡ Fun fact: Introvert, cat lover, currently reading "Matahari" by Tere Liye
 
 <!---
 hanoremma/hanoremma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
