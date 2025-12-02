@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @hanoremma you can call me Emma 
-- 👀 I’m interested in drawing and coding
-- 🌱 I’m currently learning C++ and python
-- 💞️ I’m looking to collaborate on some c++ projects
-- 📫 How to reach me Instagram (@emcozyu)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Introvert, cat lover, currently reading "Matahari" by Tere Liye
 
-<!---
-hanoremma/hanoremma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi, I'm Emma!👋
+
+👩‍💻 Students who are focused on studying and sharing what I do related to computer science<br/>
+💜 Currently studying Informatics at AMIKOM Yogyakarta<br/>
+👀 Self-Taught Artist, I share my art on [Instagram](https://www.instagram.com/emcozyu/) and [YouTube](https://www.youtube.com/@emcozyu)<br/>
+🎨 Art Commission is open if you interested, DM or check on [Carrd](https://emcozyu.carrd.co/)<br/>
+🎲 I’m currently learning Flutter Dice App<br/>
+
